@@ -2,6 +2,13 @@
 
 <div align="center">
     <img src="https://cdn.modrinth.com/data/cached_images/86840b3bb4b3b395ebfc81c964bd01da8e5a0c45.png" alt="QoL Logo">
+
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/WDRdzRjp?label=Modrinth%20Downloads&color=%2312e465&logo=Modrinth)
+![Modrinth Followers](https://img.shields.io/modrinth/followers/WDRdzRjp?label=Modrinth%20Followers&color=%2312e465&logo=Modrinth)
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WDRdzRjp?label=MC%20Versions&color=%2312e465&logo=Modrinth)
+![Static Badge](https://img.shields.io/badge/GitHub-171515?logo=GitHub)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/TwigYT/QoL-MC?logo=GitHub&labelColor=171515)
+
 </div>
 
 <div align="center">
@@ -10,6 +17,17 @@
 
 </div>
 
+Have you ever wanted a modpack that has the optimization of [Additive](https://modrinth.com/modpack/additive) and the vanilla+ features of [Xisuma's Hermitcraft Enhancements](https://www.curseforge.com/minecraft/modpacks/xisumas-hermitcraft-mods)? Well this pack accomplishes a combination of these two modpacks to make the ultimate vanilla plus experience for both single player and multiplayer!
+
+<div align="center">
+
+## What mods are in this pack?
+
+</div>
+
+This pack contants all of the mods in the [Additive](https://modrinth.com/modpack/additive) modpack, which aims to be a OptiFine replacement; and a mix of mods in the [Xisuma's Hermitcraft Enhancements](https://www.curseforge.com/minecraft/modpacks/xisumas-hermitcraft-mods) modpack, which has a lot of vanilla plus mods made to enhanced the vanilla experience. Plus a few extra mods like [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
+
+Here is a list of mods in the current mod pack version:
 <details>
 <summary>List of mods</summary>
 
@@ -75,3 +93,19 @@
 * [\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 
 </details>
+
+<div align="center">
+
+## Are there any resource packs or shaders in this modpack?
+
+</div>
+
+Yes! This pack contants [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) and [xali's Enhanced Vanilla](https://modrinth.com/resourcepack/xalis-enhanced-vanilla) to show off some of the extra features [Additive](https://modrinth.com/modpack/additive) gives you. This pack also contants [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) to add some shaders if you what.
+
+<div align="center">
+
+## But I can't play with my friends because I don't want to pay for a server
+
+</div>
+
+This is also a issue this pack correct with the [World Host](https://modrinth.com/mod/world-host) mod. This mod makes the open to LAN system able to open to anyone else running the world host mod using a [safe system](https://github.com/Gaming32/world-host?tab=readme-ov-file#how-does-this-mod-work).
