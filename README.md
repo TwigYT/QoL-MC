@@ -3,11 +3,11 @@
 <div align="center">
     <img src="https://cdn.modrinth.com/data/cached_images/86840b3bb4b3b395ebfc81c964bd01da8e5a0c45.png" alt="QoL Logo">
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/WDRdzRjp?label=Modrinth%20Downloads&color=%2312e465&logo=Modrinth)
-![Modrinth Followers](https://img.shields.io/modrinth/followers/WDRdzRjp?label=Modrinth%20Followers&color=%2312e465&logo=Modrinth)
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WDRdzRjp?label=MC%20Versions&color=%2312e465&logo=Modrinth)
-![Static Badge](https://img.shields.io/badge/GitHub-171515?logo=GitHub)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/TwigYT/QoL-MC?logo=GitHub&labelColor=171515)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/WDRdzRjp?label=Modrinth%20Downloads&color=%2312e465&logo=Modrinth)](https://modrinth.com/modpack/qol-was-taken/versions)
+[![Modrinth Followers](https://img.shields.io/modrinth/followers/WDRdzRjp?label=Modrinth%20Followers&color=%2312e465&logo=Modrinth)](https://modrinth.com/modpack/qol-was-taken)
+[![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/WDRdzRjp?label=MC%20Versions&color=%2312e465&logo=Modrinth)](https://modrinth.com/modpack/qol-was-taken/versions)
+[![Static Badge](https://img.shields.io/badge/GitHub-171515?logo=GitHub)](https://github.com/TwigYT/QoL-MC)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/TwigYT/QoL-MC?logo=GitHub&labelColor=171515)](https://github.com/TwigYT/QoL-MC/issues)
 
 </div>
 
