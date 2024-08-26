@@ -4,11 +4,9 @@
     <img src="https://cdn.modrinth.com/data/cached_images/86840b3bb4b3b395ebfc81c964bd01da8e5a0c45.png" alt="QoL Logo">
 
 [![Additive](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/built-with/additive_vector.svg)](https://modrinth.com/modpack/additive)
-[![Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/modpack/qol-was-taken/versions)
-[![Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/documentation/modrinth-gallery_vector.svg)](https://modrinth.com/modpack/qol-was-taken/gallery)
-[![Github](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/available/github_vector.svg)](https://github.com/TwigYT/QoL-MC)
 [![Fabric](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/supported/fabric_vector.svg)](https://fabricmc.net/)
-[![Changelog](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/documentation/changelog_vector.svg)](https://modrinth.com/modpack/qol-was-taken/changelog)
+[![Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/modpack/qol-was-taken/versions)
+[![Github](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/github_vector.svg)](https://github.com/TwigYT/QoL-MC)
 
 </div>
 
