@@ -110,7 +110,29 @@ Yes! This pack contants [Fresh Animations](https://modrinth.com/resourcepack/fre
 Vanilla Tweaks is a Resource/Data pack picker that generate a resource or data pack based on what features you select.
 You can find Vanilla Tweaks [here](https://vanillatweaks.net/).
 
-You can download the Vanilla data pack [here](https://vanillatweaks.net/share#XZblqx).
+<details>
+<summary>List of Vanilla Tweaks features in the pack</summary>
+
+* Decorative-cosmetic
+  * mini blocks
+  * more mob heads
+  * silence mobs
+  * armor statues
+
+* Convenience
+  * more effective tools
+  * unlock all recipes
+  * multiplayer sleep
+* Informative
+  * coordinates hud
+  * durability ping
+  * afk display
+
+</details>
+
+<br/>
+
+You can download the Vanilla Tweaks data pack [here](https://vanillatweaks.net/share#XZblqx).
 
 <div align="center">
 
