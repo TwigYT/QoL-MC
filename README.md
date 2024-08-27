@@ -103,6 +103,17 @@ Yes! This pack contants [Fresh Animations](https://modrinth.com/resourcepack/fre
 
 <div align="center">
 
+## Why does this pack say it contains Vanilla Tweaks?
+
+</div>
+
+Vanilla Tweaks is a Resource/Data pack picker that generate a resource or data pack based on what features you select.
+You can find Vanilla Tweaks [here](https://vanillatweaks.net/).
+
+You can find the list of features that this Vanilla Tweaks pack adds [here](https://vanillatweaks.net/share#XZblqx).
+
+<div align="center">
+
 ## But I can't play with my friends because I don't want to pay for a server
 
 </div>
