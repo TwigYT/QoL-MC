@@ -110,7 +110,7 @@ Yes! This pack contants [Fresh Animations](https://modrinth.com/resourcepack/fre
 Vanilla Tweaks is a Resource/Data pack picker that generate a resource or data pack based on what features you select.
 You can find Vanilla Tweaks [here](https://vanillatweaks.net/).
 
-You can find the list of features that this Vanilla Tweaks pack adds [here](https://vanillatweaks.net/share#XZblqx).
+You can download the Vanilla data pack [here](https://vanillatweaks.net/share#XZblqx).
 
 <div align="center">
 
