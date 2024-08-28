@@ -6,7 +6,7 @@
 [![Additive](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/built-with/additive_vector.svg)](https://modrinth.com/modpack/additive)
 [![Fabric](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/supported/fabric_vector.svg)](https://fabricmc.net/)
 [![Vanilla Tweaks](https://raw.githubusercontent.com/TwigYT/QoL-MC/main/devinsbadges/compact/vanilla_tweaks_vector.svg)](https://vanillatweaks.net/)
-[![Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/modpack/qol-was-taken)
+[![Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/modrinth_vector.svg)](https://modrinth.com/modpack/simplicity-qol)
 [![Github](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/github_vector.svg)](https://github.com/TwigYT/QoL-MC)
 </div>
 
